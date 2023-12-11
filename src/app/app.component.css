@@ -12,3 +12,6 @@
        margin: 10px 0px ;
    }
  
+.page-content {
+  min-height: 100px;
+}
